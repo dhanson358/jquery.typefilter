@@ -110,22 +110,3 @@ $.fn.typefilter = function(options)
 
     return options;
 };
-
-
-
-/*
-
-highlight v4
-
-Highlights arbitrary terms.
-
-<http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html>
-
-MIT license.
-
-Johann Burkard
-<http://johannburkard.de>
-<mailto:jb@eaio.com>
-
-*/
-
